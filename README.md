@@ -42,7 +42,7 @@
 - ✅ DMS Model Development & Integration for SoC Co-simulation – Designer’s Guide (2023)
 - ✅ Functional Verification of OTP and Clock/Reset Modules of USB PD Controller - Texus Instruments (2022)  
 - ✅ Mixed Signal Modeling and Verification of Next-Gen Wireless Baseband Generator - ETA Wireless (2022)  
-- ✅ Functional Verification of AMBA APB, AHB, AXI Slave, I2C Slave & SPI Controller  - Ulkasemi (2021-2023)  
+- ✅ [Functional Verification of AMBA APB, AHB, AXI Slave, I2C Slave & SPI Controller – Ulkasemi (2021–2023)](https://github.com/uchchhash/bus-protocol-verification)
 - ✅ Design and Verification of Traffic Light Controller  - Ulkasemi (2022)
    
 ----
