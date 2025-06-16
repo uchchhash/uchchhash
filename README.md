@@ -52,7 +52,8 @@
 
 - FPGA Design with Vitis HLS – [Udemy](https://www.udemy.com/certificate/UC-a744befa-eacd-4a06-8bbe-269985111244/)
 - Deep Learning – [Coursera](https://www.coursera.org/account/accomplishments/verify/RPZ2WWM5DNC6)
-- Data Science with Python – Quantum.ai
+- Data Science with Python – [Quantum.ai](https://drive.google.com/file/d/1i80rpsqLsDMNv_3G-jmGyAB2_B5bUohs/view)
+
 
 ---
 
