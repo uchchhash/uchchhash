@@ -1,90 +1,87 @@
-
 # 👋 Hi, I'm Uchchhash Sarkar
 
 **Design Verification Engineer** | **SoC & Memory Systems Enthusiast** | **PhD Aspirant**
 
-📍 Based in Dhaka, Bangladesh  
+📍 Sector 14, Uttara, Dhaka, Bangladesh  
 📧 uchchhash.sarkar@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/uchchhash) | [GitHub](https://github.com/uchchhash)
+🔗 [LinkedIn](https://linkedin.com/in/uchchhash) • [GitHub](https://github.com/uchchhash) • [ResearchGate](https://www.researchgate.net/profile/Uchchhash_Sarkar)
 
 ---
 
 ## 💡 About Me
 
-I'm a passionate engineer with over **3.5 years of experience** in RTL design verification, currently working as a contingent engineer for **Synopsys Inc.** through **Ulkasemi**. My work spans advanced **memory interface protocols**, **mixed-signal modeling**, and **SystemVerilog/UVM-based verification**.
+I’m a hardware engineer with **3.5+ years of experience** in **functional verification, RTL design, and mixed-signal modeling**, currently contributing to high-speed memory interface verification at **Synopsys Inc.** (via Ulkasemi).  
+I enjoy solving architectural and verification challenges in **SoC systems**, while mentoring and training young engineers along the way.
 
 ---
 
 ## 🔬 Research Interests
 
-- System-on-Chip (SoC), Computer Architecture
+- System-on-Chip (SoC) Architectures & Computer Architecture
 - Memory Systems
-- Hardware Accelerators and AI Engines
-- Digital Design, Verification
+- Hardware Accelerators for AI/ML
+- Processing-in-Memory (PiM)
 - Hardware Security
 
 ---
 
 ## 🧠 Technical Skills
 
-- **Languages:** Verilog, SystemVerilog, Verilog-AMS, UVM, C++, Python, Bash
-- **EDA Tools:** Cadence (Xcelium, Virtuoso, IMC), Synopsys (VCS, Verdi), Vivado, Vitis-HLS
-- **Verification:** ABV, Coverage-Driven Verification, RNM, Co-Simulation
-- **Protocols:** AMBA (APB, AHB, AXI), DDR, HBM, I2C, SPI, UART
-- **Modeling:** Behavioral, Real-Number (RNM), Mixed-Signal
-- **ML/DS:** Scikit-learn, YOLO, Pandas, Matplotlib, Seaborn
-- **Version Control:** Git, Perforce | **Collab Tools:** JIRA, Confluence
+- **Languages & Methodologies:** Verilog, SystemVerilog, UVM, Verilog-AMS, SVA, C++, Python, Bash
+- **EDA Tools:** Cadence Xcelium, Virtuoso, Synopsys VCS & Verdi, Vivado, Vitis-HLS
+- **Verification:** ABV, RNM, Coverage-Driven, GLS, Mixed-Signal Co-Simulation
+- **Protocols:** AMBA (APB, AHB, AXI), LPDDR, HBM, I2C, SPI, UART
+- **ML/DS Tools:** YOLO, Scikit-learn, Pandas, Matplotlib, Seaborn
+- **Collaboration:** Git, Perforce, JIRA, Confluence
 
 ---
 
-## 🚀 Projects
+## 🚀 Major Projects
 
-### 🧩 Functional Verification Projects
-- ✅ HBM4 PHY Layer (Synopsys)
-- ✅ LPDDR54x Functional Coverage Checker (Synopsys)
-- ✅ OTP + Clock/Reset Verification (Texas Instruments)
-- ✅ Standard Protocol IPs: APB, AHB, AXI, SPI, I2C, UART ([GitHub Repo](https://github.com/uchchhash/bus-protocol))
-- ✅ Foundational RTL Modules (Binary Counter, Shift Register, Traffic Light) ([GitHub Repo](https://github.com/uchchhash/rtl-verification-digital-modules))
+### Functional Verification
+- ✅ Functional Verification of HBM3 PHY Layer (Synopsys)
+- ✅ Functional Coverage Checkers for LPDDR5x/4 (Synopsys)
+- ✅ RTL Design & Verification of AHB to APB Bridge and Foundational Modules (Ulkasemi)
+- ✅ Mixed-Signal Co-Simulation with DMS Models (DVCon, Designer’s Guide)
 
-### 🔧 Mixed-Signal / AMS Projects
-- 🔄 RNM & AMS Verification (SigmaSense, ETA Wireless)
-- 🧠 SoC Co-Simulation with DMS Models (DVCon Paper, Designer’s Guide)
+### Mixed-Signal / AMS
+- 🔄 RNM & AMS Verification of SoC Subsystems (SigmaSense, ETA Wireless)
 
-### 📊 AI & ML Projects
-- 🤖 COVID Social Distancing Monitor using YOLO
-- 📈 Predictive Modeling with Regression & Classification (Quantum.AI)
+### AI & ML
+- 🤖 COVID-Aware Crowd Monitoring using YOLO
+- 📈 Predictive Modeling with Regression & Classification
 
 ---
 
 ## 📄 Certifications
 
-- **High-Level Synthesis for FPGA** – Udemy (Vitis-HLS)
+- **High-Level Synthesis for FPGA (Vitis-HLS)** – Udemy
 - **Neural Networks & Deep Learning** – DeepLearning.AI
 - **Data Science with Python** – Quantum.ai
 
 ---
 
-## 🎓 Academic Background
+## 🎓 Education
 
 **B.Sc. in Electrical and Electronic Engineering**  
-Ahsanullah University of Science and Technology (AUST), 2021  
+*Ahsanullah University of Science and Technology (AUST)*, 2021  
 CGPA: 3.584 / 4.00 (Last 4 Semesters: 3.854)
 
 ---
 
 ## 🧑‍🏫 Mentoring & Training
 
-- **Instructor** – VLSI Training Academy, United International University
-- **Technical Recruiter & Trainer** – Ulkasemi Pvt Ltd
+- Instructor – VLSI Training Academy, United International University
+- Technical Recruitment & Training – Ulkasemi Pvt. Ltd.
 
 ---
 
-## 📈 Goals
+## 🎯 Career Goal
 
-Actively seeking **PhD opportunities** in:
+Actively seeking **funded PhD opportunities** in:
 - Computer Architecture
-- VLSI Design
-- Hardware Security
-- Memory Systems and AI Accelerators
+- SoC and Memory Systems
+- Hardware Accelerators
+- Secure Digital Design
 
 ---
