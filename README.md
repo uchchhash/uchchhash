@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-I’m a hardware engineer with **3.5+ years of experience** in **functional verification, RTL design, and mixed-signal modeling**, currently contributing to high-speed memory interface verification at **Synopsys Inc.** (via Ulkasemi).  
+I’m a hardware engineer with **3.5+ years of experience** in **functional verification, RTL design, and mixed-signal modeling**, currently contributing to high-speed memory interface verification.  
 I enjoy solving architectural and verification challenges in **SoC systems**, while mentoring and training young engineers along the way.
 
 ---
@@ -39,13 +39,13 @@ I enjoy solving architectural and verification challenges in **SoC systems**, wh
 ## 🚀 Major Projects
 
 ### Functional Verification
-- ✅ Functional Verification of HBM3 PHY Layer (Synopsys)
-- ✅ Functional Coverage Checkers for LPDDR5x/4 (Synopsys)
-- ✅ RTL Design & Verification of AHB to APB Bridge and Foundational Modules (Ulkasemi)
-- ✅ Mixed-Signal Co-Simulation with DMS Models (DVCon, Designer’s Guide)
+- ✅ Functional Verification of HBM3 PHY Layer
+- ✅ Functional Coverage Checkers for LPDDR5x/4
+- ✅ RTL Design & Verification of AHB to APB Bridge and Foundational Modules
+- ✅ Mixed-Signal Co-Simulation with DMS Models
 
 ### Mixed-Signal / AMS
-- 🔄 RNM & AMS Verification of SoC Subsystems (SigmaSense, ETA Wireless)
+- 🔄 RNM & AMS Verification of SoC Subsystems
 
 ### AI & ML
 - 🤖 COVID-Aware Crowd Monitoring using YOLO
