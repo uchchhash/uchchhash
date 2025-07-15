@@ -30,7 +30,7 @@ I enjoy solving architectural and verification challenges in **SoC systems**, wh
 - **Languages & Methodologies:** Verilog, SystemVerilog, UVM, Verilog-AMS, SVA, C++, Python, Bash
 - **EDA Tools:** Cadence Xcelium, Virtuoso, Synopsys VCS & Verdi, Vivado, Vitis-HLS
 - **Verification:** ABV, RNM, Coverage-Driven, GLS, Mixed-Signal Co-Simulation
-- **Protocols:** AMBA (APB, AHB, AXI), LPDDR, HBM, I2C, SPI, UART
+- **Protocols:** AMBA (APB, AHB, AXI), HBM3, I2C, SPI, UART
 - **ML/DS Tools:** YOLO, Scikit-learn, Pandas, Matplotlib, Seaborn
 - **Collaboration:** Git, Perforce, JIRA, Confluence
 
